@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnvarterTakip", "EnvarterTakip.csproj", "{41E1C1C4-5B92-48C3-BC9E-9D1F5C0C3F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E1C1C4-5B92-48C3-BC9E-9D1F5C0C3F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E1C1C4-5B92-48C3-BC9E-9D1F5C0C3F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E1C1C4-5B92-48C3-BC9E-9D1F5C0C3F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E1C1C4-5B92-48C3-BC9E-9D1F5C0C3F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBFAC38-18BD-4799-85E7-69C270A0B3F1}
+	EndGlobalSection
+EndGlobal
